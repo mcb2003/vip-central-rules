@@ -22,6 +22,22 @@ A list of rules and community guidelines for the VIP Central discord server.
 *  We also incourage you to read this rules document. It will be linked in the *rules* channel in a pinned message. If you choose not to read these rules, you are putting yourself at risk of a banne or kick if you fail to abide by them.
 *  Once you've read these rules, feel free to join any channel you want and start chatting!
 
+## 3. Using Communication Wisely
+
+*  I think its pretty much common sense, but no violent, disrespectfull, sexual, obscene or other forms of inapropriate content. Anything NSFW is not allowed and * I will not create an NSFW channel!*
+*  Profuse or unnecessary offensive words are not allowed. To be clear, swearing is allowed, but only when appropriate and not in large quantities. It is specifically banned when referencing one or more server members.
+*  *Respect other people's opinions.* Debates are allowed, along as they don't become agressive, it is healthy to create discussion, but streight up arguments are not allowed. *I'm sick of people arguing over practically nothing!*
+*  *IT IS STRICTLY NOT ALLOWED TO TALK ABOUT ANYONE IN THE SERVER BEHIND THEIR BACK OR WHEN THEY'RE NOT ONLINE.* People have they're opinions and percieved notions of others, but that doesn't mean _anyone_ deserves to be talked about foully when they're not listening. People have their mistakes, let them keep them as they will!
+*  *Cyber bullying, including harassment,* is also strictly not allowed. The reasons should be pretty obviously ... if not, you shouldn't be joining this server.
+
+## 4. But What If I break These Rules?
+
+*  Failure to follow any _one_ of these rules will result in a warning. This basically means nothing, to give accidental slip-ups a blind eye.
+ *  *note:* it is completely up to the moderators whether a warning is necessary. MOderators are instructed to be generous when giving out warnings, however, they are also told that if a large, specifically targetted, or obviously deliberate *attack* takes place, to moderate murcilessly and it is entirely acceptible in this case to skip the warning step.
+*  If a problem persists after the initial warning, a second warning will be given. This warning is a little more meaningfull, however. If a specific problem that could be solved by changing the member's permisions (E.G. if the member is missusing voice chat and disabling their ability to speak in voice chat would solve the issue), then these measures will take place. You are also likely to be assigned the "naughty naughty" roll, which restricts other permisions, however, in some cases this may not happen.
+*  Finally, if the problem persists, the offending member will be temperarily and then permanently banned. *I'm sure none of you will get to tat point, however.*
+*  *Note 2:* no matter how important you are to the server (even if you are a mod) these rules will always be inforced. Even I am using the server under the terms of these rules!
+
 # LICENSE
 
 ## GNU Free Documentation License
